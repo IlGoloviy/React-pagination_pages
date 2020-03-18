@@ -1,4 +1,4 @@
-# pagination with React ***test-app***
+# pagination with React
 
 with api comes a JSON file of products that are displayed four per page and is able to filter products by brand
 
